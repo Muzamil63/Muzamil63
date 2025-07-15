@@ -2,6 +2,13 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muzamil%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Passionate Developer from Pakistan 🇵🇰
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h2>
+</div>
 
 <!-- Animated typing with multiple lines -->
 <div align="center">
