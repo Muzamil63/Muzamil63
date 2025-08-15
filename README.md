@@ -13,8 +13,8 @@
 
 <!-- Profile views with custom styling -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00d9ff&labelColor=000000" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=muzamil63&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/muzamil63?style=for-the-badge&color=00d9ff&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-00d9ff?style=for-the-badge&labelColor=000000" alt="Focus"/>
 </div>
 
@@ -85,22 +85,22 @@ const muzamil = new MuzamilAli();
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muzamil63&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muzamil63&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil63&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Muzamil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamil63&custom_title=Muzamil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muzamil63&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ## 💻 Coding Activity
@@ -132,11 +132,11 @@ const muzamil = new MuzamilAli();
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/muzamil63/PROJECT1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzamil63&repo=PROJECT1&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/muzamil63/PROJECT2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzamil63&repo=PROJECT2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
   </a>
 </div>
 
@@ -156,10 +156,10 @@ const muzamil = new MuzamilAli();
 ## 💰 Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <a href="https://www.buymeacoffee.com/muzamil63">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/YOUR_USERNAME">
+  <a href="https://ko-fi.com/muzamil63">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </div>
@@ -173,7 +173,7 @@ const muzamil = new MuzamilAli();
 ## 🌐 GitHub Skyline
 
 <div align="center">
-  <a href="https://skyline.github.com/YOUR_USERNAME/2024">
+  <a href="https://skyline.github.com/muzamil63/2024">
     <img src="https://i.imgur.com/V4bZsOZ.png" width="600" alt="GitHub Skyline 2024"/>
   </a>
   <p><em>🏙️ My 2024 GitHub Skyline - A 3D visualization of my contributions</em></p>
@@ -213,7 +213,7 @@ const muzamil = new MuzamilAli();
 
 **Replace these placeholders with your info:**
 
-1. `YOUR_USERNAME` → Your GitHub username
+1. `muzamil63` → Your GitHub username
 2. `YOUR_LINKEDIN` → LinkedIn profile URL  
 3. `YOUR_TWITTER` → Twitter handle
 4. `YOUR_INSTAGRAM` → Instagram handle
