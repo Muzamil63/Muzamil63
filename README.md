@@ -10,10 +10,6 @@
   </h2>
 </div>
 
-<!-- Animated typing with multiple lines -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+MERN+Stack+Developer;⚛️+React+%26+React+Native+Expert;🐍+Python+%26+AI+Enthusiast;🎮+Gaming+%26+Code+Lover" alt="Typing SVG" />
-</div>
 
 <!-- Profile views with custom styling -->
 <div align="center">
